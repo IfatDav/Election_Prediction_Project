@@ -281,34 +281,6 @@ R² should not be interpreted as “93.1% prediction accuracy.”
 
 ---
 
-## Repository Structure
-
-```text
-Election_Prediction_Project/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── data_dictionary.md
-├── notebooks/
-│   ├── 01_data_mapping_and_merging.ipynb
-│   ├── 02_eda_and_preprocessing.ipynb
-│   ├── 03_modeling.ipynb
-│   └── 04_model_evaluation.ipynb
-├── src/
-├── models/
-│   └── final_segmented_clr_druze_bundle.joblib
-├── reports/
-│   ├── figures/
-│   ├── model_results.md
-│   ├── model_comparison.csv
-│   ├── model_comparison_by_target.csv
-│   └── evaluation_summary.json
-└── presentation/
-```
-
 ### Notebook Descriptions
 
 | Notebook | Purpose |
