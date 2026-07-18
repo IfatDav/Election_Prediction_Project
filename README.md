@@ -5,7 +5,9 @@ A machine-learning project for predicting the distribution of votes among four p
 ## Team Members
 
 Ifat
+
 Yuval
+
 Roi
 
 ---
