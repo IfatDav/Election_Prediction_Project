@@ -4,11 +4,9 @@ A machine-learning project for predicting the distribution of votes among four p
 
 ## Team Members
 
-| Team member | Main responsibility |
-|---|---|
-| Ifat  | |
-| Yuval | |
-| Roi | |
+Ifat
+Yuval
+Roi
 
 ---
 
