@@ -1,5 +1,0 @@
-﻿strategy,hybrid_direction_supported,beats_unseen_persistence,beats_temporal_persistence,eligible_for_final_candidate,unseen_cv_mae,temporal_validation_mae,average_relative_improvement_pct
-Ridge — raw correction,True,True,False,False,2.173635841276559,3.447611514793086,13.895927995548348
-Ridge — globally shrunk correction,True,True,False,False,2.151236563316773,3.3832534104658234,15.226115063570111
-Hybrid — Ridge Non-Arab / persistence Arab,False,True,True,False,2.6685270175672233,2.8008590587730104,16.285214667811715
-Hybrid — shrunk Ridge Non-Arab / persistence Arab,False,True,True,False,2.6238918792173846,2.821662818840962,16.64621506761766

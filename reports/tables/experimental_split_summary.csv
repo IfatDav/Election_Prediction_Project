@@ -1,4 +1,0 @@
-﻿split,transitions,rows,used_in_this_notebook
-train,"K21_to_K22, K22_to_K23",2426,True
-validation,K23_to_K24,1212,True
-final_test,K24_to_K25,1213,False
