@@ -1,7 +1,0 @@
-﻿metric,value
-maximum_previous_reconstruction_error_pct_points,0.0002999990999938973
-maximum_current_reconstruction_error_pct_points,0.0002999990999938973
-mean_previous_reconstruction_error_pct_points,3.1148177717006015e-05
-mean_current_reconstruction_error_pct_points,2.887030073294186e-05
-maximum_clr_delta_sum_error,7.105427357601002e-15
-epsilon_used,1e-06
