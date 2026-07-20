@@ -1,0 +1,4 @@
+﻿split,full_rows,eligible_rows,eligible_row_coverage_pct,full_current_valid_votes,eligible_current_valid_votes,eligible_vote_coverage_pct
+train,2426,449,18.507831821929102,8746524.0,7512994.0,85.89691173316393
+validation,1212,224,18.48184818481848,4409811.0,3540457.0,80.28591248014938
+final_test_locked,1213,224,18.46661170651278,,,

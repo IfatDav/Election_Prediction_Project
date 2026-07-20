@@ -1,0 +1,13 @@
+﻿model,kept,reason,features
+Extra Trees — history + levels + change,False,constant_or_empty,1
+Extra Trees — history + levels + change,False,missingness_above_threshold,115
+Extra Trees — history + levels + change,True,kept,239
+Ridge — history + levels,False,missingness_above_threshold,56
+Ridge — history + levels,True,kept,125
+Ridge — history + levels + change,False,constant_or_empty,1
+Ridge — history + levels + change,False,missingness_above_threshold,115
+Ridge — history + levels + change,True,kept,239
+Ridge — history only,True,kept,6
+Ridge — socioeconomic only,False,constant_or_empty,1
+Ridge — socioeconomic only,False,missingness_above_threshold,115
+Ridge — socioeconomic only,True,kept,233
