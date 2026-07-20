@@ -1,5 +1,0 @@
-﻿transition_id,previous_election,current_election,previous_localities,current_localities,matched_localities,previous_only_localities,current_only_localities,match_rate_vs_previous_pct,match_rate_vs_current_pct
-K21_to_K22,Knesset_21,Knesset_22,1213,1213,1212,1,1,99.91755976916735,99.91755976916735
-K22_to_K23,Knesset_22,Knesset_23,1213,1213,1213,0,0,100.0,100.0
-K23_to_K24,Knesset_23,Knesset_24,1213,1214,1211,2,3,99.83511953833471,99.7528830313015
-K24_to_K25,Knesset_24,Knesset_25,1214,1215,1212,2,3,99.835255354201,99.75308641975309
