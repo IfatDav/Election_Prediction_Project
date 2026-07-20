@@ -1,0 +1,79 @@
+{
+  "notebook": "04_feature_engineering",
+  "annual_years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "annual_sources": [
+    "demographic",
+    "education",
+    "income",
+    "welfare"
+  ],
+  "annual_feature_rows": 1126,
+  "annual_unique_localities": 226,
+  "annual_feature_count": 174,
+  "modeling_transition_rows": 4851,
+  "transition_feature_coverage": [
+    {
+      "transition_id": "K21_to_K22",
+      "rows": 1212,
+      "previous_annual_match_rows": 225,
+      "current_annual_match_rows": 225,
+      "complete_annual_pair_rows": 225,
+      "complete_pair_coverage_pct": 18.564356435643564
+    },
+    {
+      "transition_id": "K22_to_K23",
+      "rows": 1214,
+      "previous_annual_match_rows": 225,
+      "current_annual_match_rows": 224,
+      "complete_annual_pair_rows": 224,
+      "complete_pair_coverage_pct": 18.451400329489292
+    },
+    {
+      "transition_id": "K23_to_K24",
+      "rows": 1212,
+      "previous_annual_match_rows": 224,
+      "current_annual_match_rows": 224,
+      "complete_annual_pair_rows": 224,
+      "complete_pair_coverage_pct": 18.48184818481848
+    },
+    {
+      "transition_id": "K24_to_K25",
+      "rows": 1213,
+      "previous_annual_match_rows": 224,
+      "current_annual_match_rows": 225,
+      "complete_annual_pair_rows": 224,
+      "complete_pair_coverage_pct": 18.46661170651278
+    }
+  ],
+  "forecast_2023": {
+    "rows": 1213,
+    "rows_with_complete_2022_2023_pair": 225,
+    "cold_start_candidates": 1
+  },
+  "same_year_transition_note": "K21_to_K22 uses 2019 features on both sides; observed annual-feature deltas are zero.",
+  "quality_checks": {
+    "annual_duplicate_locality_year_rows": 0,
+    "transition_duplicate_rows": 0,
+    "forecast_duplicate_localities": 0,
+    "all_target_columns_present": true,
+    "feature_sets_pass_leakage_check": true,
+    "annual_feature_count": 174,
+    "modeling_rows": 4851,
+    "forecast_rows": 1213,
+    "forecast_rows_with_complete_annual_pair": 225
+  },
+  "outputs": {
+    "annual_features": "data/interim/locality_annual_features_2019_2023.csv",
+    "modeling_features": "data/interim/modeling_transition_features.csv",
+    "forecast_features_2023": "data/interim/forecast_features_2023.csv",
+    "cold_start_candidates": "data/interim/forecast_cold_start_candidates_2023.csv",
+    "feature_manifest": "reports/summaries/feature_manifest.json",
+    "availability_figure": "reports/figures/annual_feature_availability.png"
+  }
+}
