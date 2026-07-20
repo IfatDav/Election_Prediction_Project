@@ -1,7 +1,0 @@
-﻿check,passed,value,requirement
-all_nine_transitions_present,False,"['K21_to_K22', 'K22_to_K23', 'K23_to_K24', 'K24_to_K25']","['K16_to_K17', 'K17_to_K18', 'K18_to_K19', 'K19_to_K20', 'K20_to_K21', 'K21_to_K22', 'K22_to_K23', 'K23_to_K24', 'K24_to_K25']"
-no_duplicate_transition_locality_rows,True,0,0
-minimum_1000_localities_per_transition,True,1211,>= 1000
-percentage_point_deltas_sum_to_zero,True,4.3520742565306136e-14,<= 1e-6
-clr_deltas_sum_to_zero,True,7.105427357601002e-15,<= 1e-8
-only_k24_to_k25_is_locked,True,['K24_to_K25'],['K24_to_K25']
