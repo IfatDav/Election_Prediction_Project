@@ -1,9 +1,0 @@
-﻿folder,exists
-data/raw,True
-data/interim,True
-data/processed,True
-reports/tables,True
-reports/figures,True
-reports/summaries,True
-models,True
-notebooks,True

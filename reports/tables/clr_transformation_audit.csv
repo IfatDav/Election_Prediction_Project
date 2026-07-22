@@ -1,7 +1,0 @@
-﻿metric,value
-clr_zero_replacement_epsilon,1e-06
-maximum_previous_inverse_clr_error,5.551115123125783e-16
-maximum_current_inverse_clr_error,5.551115123125783e-16
-maximum_previous_clr_row_sum,7.105427357601002e-15
-maximum_current_clr_row_sum,7.105427357601002e-15
-maximum_delta_clr_row_sum,1.0658141036401503e-14

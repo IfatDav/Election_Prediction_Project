@@ -1,6 +1,0 @@
-﻿outer_test_transition,outer_test_order,training_transitions,number_of_training_transitions,training_rows,test_rows
-K19_to_K20,3,K16_to_K17|K17_to_K18|K18_to_K19,3,3434,1183
-K20_to_K21,4,K16_to_K17|K17_to_K18|K18_to_K19|K19_to_K20,4,4617,1193
-K21_to_K22,5,K16_to_K17|K17_to_K18|K18_to_K19|K19_to_K20|K20_to_K21,5,5810,1212
-K22_to_K23,6,K16_to_K17|K17_to_K18|K18_to_K19|K19_to_K20|K20_to_K21|K21_to_K22,6,7022,1213
-K23_to_K24,7,K16_to_K17|K17_to_K18|K18_to_K19|K19_to_K20|K20_to_K21|K21_to_K22|K22_to_K23,7,8235,1211

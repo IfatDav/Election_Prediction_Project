@@ -1,4 +1,0 @@
-﻿challenger,reference,mean_challenger_fold_mae,mean_reference_fold_mae,mean_mae_difference,folds_won,folds_compared
-history_plus_dynamic_socio,Persistence,4.714987296466131,3.2477548482871024,1.4672324481790286,0,5
-history_plus_dynamic_socio,history_only,4.714987296466131,4.463613860742852,0.25137343572327797,2,5
-history_plus_nonidentity_levels_and_dynamic,history_plus_dynamic_socio,4.77546437385535,4.714987296466131,0.06047707738921906,2,5
